@@ -73,5 +73,6 @@ def main():
             print(f"Location: {match.location}, Team 1: {match.team1}, Team 2: {match.team2}, Timing: {match.timing}")
         print()
 
+
 if __name__ == "__main__":
     main()
